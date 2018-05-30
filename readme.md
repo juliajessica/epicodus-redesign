@@ -1,60 +1,22 @@
 # _<p align="center">Julia Sheremet</p>_
 
+## _Epicodus Website Redesign_
+
 ## <span style="color:#74875d;">Description</span>
 
-_This webpage application is designed to...._
+_This redesign was first outlined using grid paper and research on best practices for User Interfaces. The final production was created using Sketch._
 
-## <span style="color:#74875d;">Setup/Installation Requirements</span> :computer:
-
-* Clone repository on your local computer.
-* If you already have Node, Homebrew, and Karma installed, then skip to **Install Dependencies**.
-
-  #### Node: Windows / Linux Installation Instructions
-  To install `Node` on other systems, go to the <a href="https://nodejs.org/en/">Node website</a>, download and install the appropriate installer for your operating system.
-
-  #### Node: OSX Installation Instructions
-  On OS X systems, install `Node.js` through Homebrew with the following command in your home directory:
-    ```sh
-    $ brew install node
-    ```
-  Confirm that Node version is 4.0.x or higher and npm should be 3.6.x or higher:
-  ```sh
-    $ node -v
-    $ npm -v
-  ```
-
-  #### Homebrew Installation
-  If you do not have `Homebrew` installed yet, you may install it by copying and pasting this command:
-  ```sh
-    $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-  ```
-  Next, ensure Homebrew packages are run before the system versions of the same (which may be dated or not what we want) by executing the following:
-  ```sh
-    $ echo 'export PATH=/usr/local/bin:$PATH' >> ~/.bash_profile
-  ```
-
-  #### Install dependencies
-  Enter the following code in the command line to install all dependencies:
-  ```sh
-    $ npm install
-  ```
-
-  To run the local server:
-  ```sh
-    $ npm run start
-  ```
+![Screenshot](outline.jpeg)
+![Screenshot](sketch.png)
 
 ## <span style="color:#74875d;">Known Bugs</span>
 
-_Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@gmail.com) if you run into any issues or have questions, ideas or concerns. Please enjoy and feel free to share your opinion, constructive criticism, or comments of my work. :+1:_
+_None_
 
 ## <span style="color:#74875d;">Technologies Used</span>
 
-| Front end dependencies |
-| :------------ | :------------- |
-| Webpack |
-| CSS |
-
+* Grid Paper and Pencil
+* Sketch
 
 ### <span style="color:#74875d;">License</span>
 
