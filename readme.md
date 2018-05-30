@@ -8,6 +8,7 @@ _This redesign was first outlined using grid paper and research on best practice
 
 ![Screenshot](outline.jpeg)
 ![Screenshot](sketch.png)
+![Screenshot](mobile.png)
 
 ## <span style="color:#74875d;">Known Bugs</span>
 
